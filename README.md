@@ -21,3 +21,7 @@ Originally tested with PFRL and SUMO 1.6.0
 1) Please make sure you have SUMO installed and your path variables setup correctly.
 2) Please make sure you have OpenAI's GYM toolkit installed
 3) Ideally you should have some knowledge of reinforcement learning + SUMO
+
+
+## Note
+You can plug and play this environment into any Reinforcement learning library that's compatable with OpenAI's Gym. However, make sure you instantiate the environment by creating an environment object directly, and NOT by calling Gym.make().
