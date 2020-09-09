@@ -12,7 +12,7 @@ Notes:
 Please check the internal Model Parameters under Sumo_Environment.py and make sure it fits your agent implementation. For Any questions, don't hesitate to reach out.
 
 
-Originally tested with PFRL and SUMO 1.6.0
+Originally tested with PFRL and SUMO 1.6.0 under Ubuntu 18.04 LTS
 
 
 
