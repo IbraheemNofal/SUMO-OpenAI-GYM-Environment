@@ -13,3 +13,10 @@ Please check the internal Model Parameters under Sumo_Environment.py and make su
 
 
 Originally tested with PFRL and SUMO 1.6.0
+
+
+
+## Prerequsites:
+
+1) Please make sure you have SUMO installed and your path variables setup correctly.
+2) Please make sure you have OpenAI's GYM toolkit installed
