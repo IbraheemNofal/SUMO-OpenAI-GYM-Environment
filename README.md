@@ -4,7 +4,7 @@
 This is a Simulation of Urban Mobility (SUMO) Enviromnment that's compatable with OpenAI Gym for usage in reinforcement learning training. We created our own custom environment then wrapped it using OpenAI Gym's specification.
 You will need to implement your own state definition and reward functions depending on your Agent's Observation Input.
 
-This was originally developed for custom usage within our own custom solution at https://www.citix.ai but we later on decided to open it up for others to benefit from.
+A heavily modified version of this was originally developed for usage within our own custom solution at https://www.citix.ai but we later on decided to open it up for others to benefit from.
 Feel free to use this project however you see fit.
 
 Notes:
